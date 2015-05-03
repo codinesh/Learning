@@ -17,6 +17,7 @@ namespace ConsoleApplication1
             //    DisplayLine(i);
             //}
 
+            //make it better
             //fibinocci series
             var max = 50;
             var first = 0;
